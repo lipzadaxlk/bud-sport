@@ -31,6 +31,12 @@ npx skills add https://github.com/lipzadaxlk/bud-sport
 
 The skill triggers on its own when the agent is about to create something with room for choice. You can also call it by name.
 
+**Running many skills?** Setups with a session hook that forces another creative skill first (for example a mandatory brainstorming step) can crowd it out. Add one line to your `CLAUDE.md` (or your agent's equivalent) and both will run:
+
+```
+Before delivering any creative output (names, taglines, design, copy, ideas), use the bud-sport skill.
+```
+
 ## The eight steps
 
 1. **Anchor in the subject.** Who it is for, the job to be done, and the domain's own vocabulary, materials and craft.

@@ -1,6 +1,6 @@
 ---
 name: bud-sport
-description: Use whenever you create something with room for choice - UI and web design, landing pages, copy and microcopy, product or project names, slogans, feature ideas, plans, new architecture, stories, characters, palettes. Breaks the "median output" that aligned language models produce by reflex (purple gradient + Inter + three cards, "it's not X, it's Y", names ending in -ify, needless abstraction) with an evidence-based process - verbalized sampling, forced divergence, a counterfactual genericness test, a tells catalog and memory across projects. Skip it for bug fixes, mechanical refactors, or when the user explicitly asked for something conventional.
+description: You MUST use this before delivering any creative output - a tagline, slogan, headline, name (product, brand, company, project, character), landing page, UI or visual design, color palette, typography, copy or microcopy, product or feature idea, story, or a new architecture. Use it together with brainstorming or design skills, not instead of them - they shape the conversation, this one keeps the final pick from being the median answer every model gives (purple gradient + Inter + three cards, "it's not X, it's Y", names ending in -ify, needless abstraction). Evidence-based process - verbalized sampling, forced divergence, a counterfactual genericness test, a tells catalog and memory across projects. Skip it for bug fixes, mechanical refactors, or when the user explicitly asked for something conventional.
 ---
 
 # bud-sport
