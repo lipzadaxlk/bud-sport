@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bud-sport",
+  "description": "A skill that steers AI agents away from median, mode-collapsed output in design, writing, naming, ideas and code, using an evidence-based process.",
+  "owner": {
+    "name": "lipzadaxlk"
+  },
+  "plugins": [
+    {
+      "name": "bud-sport",
+      "description": "Breaks the default output aligned models produce by reflex: verbalized sampling, forced divergence, a counterfactual genericness test, a tells catalog and memory across projects.",
+      "author": {
+        "name": "lipzadaxlk"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

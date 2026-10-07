@@ -1,0 +1,14 @@
+{
+  "name": "bud-sport",
+  "description": "Breaks the default output aligned models produce by reflex, in design, writing, naming, ideas and code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lipzadaxlk",
+    "url": "https://github.com/lipzadaxlk"
+  },
+  "homepage": "https://github.com/lipzadaxlk/bud-sport",
+  "repository": "https://github.com/lipzadaxlk/bud-sport",
+  "license": "MIT",
+  "keywords": ["skill", "creativity", "design", "mode-collapse", "verbalized-sampling", "ai-slop", "writing", "naming"],
+  "skills": "./skills/"
+}
